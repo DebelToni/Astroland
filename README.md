@@ -1,6 +1,8 @@
 # Аstroland
 
-<img src="./README pictures/logo.png"/>
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://youtu.be/dOxbOkRPipg)
+
+[![Video](https://img.youtube.com/vi/dOxbOkRPipg/hqdefault.jpg)](https://youtu.be/dOxbOkRPipg)
 
 # Singleplayer (засега) игра, в която развиваш своята планета и я отбраняваш от извънземни.
 
