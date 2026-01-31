@@ -1,4 +1,4 @@
-# Аstroland
+# [Аstroland Forked to turn on GitHub Pages for Gameplay](https://debeltoni.github.io/Astroland)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://youtu.be/dOxbOkRPipg)
 
